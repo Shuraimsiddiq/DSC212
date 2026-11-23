@@ -1,6 +1,6 @@
 # Spectral Modularity on Zachary's Karate Club
 
-Coursework submission for **DSC 212 (Graph Theory and Linear Algebra)** under **Prof. Saptarishi Bej**, IISER Thiruvananthapuram.
+Coursework submission for **DSC 212 (Graph Theory and Linear Algebra)** under **Prof. Saptarshi Bej**, IISER Thiruvananthapuram.
 
 ## Overview
 
